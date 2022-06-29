@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryandi-tiket/package-registry-demo.git"
+    "url": "git+https://github.com/ryandi-tiket/debug-chunking.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ryandi-tiket/package-registry-demo/issues"
+    "url": "https://github.com/ryandi-tiket/debug-chunking/issues"
   },
-  "homepage": "https://github.com/ryandi-tiket/package-registry-demo#readme",
+  "homepage": "https://github.com/ryandi-tiket/debug-chunking#readme",
   "devDependencies": {
     "@parcel/core": "^2.5.0",
     "@parcel/packager-ts": "^2.5.0",
