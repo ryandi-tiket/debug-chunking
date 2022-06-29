@@ -1,0 +1,38 @@
+{
+  "name": "@ryand-tiket/ds",
+  "version": "0.0.0",
+  "description": "DS components",
+  "keywords": [],
+  "author": "tiket.com",
+  "homepage": "https://github.com/tiket/TIX-PASSPORT/tree/main/packages/passport#readme",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "type": "module",
+  "types": "dist/types.d.ts",
+  "source": "src/index.ts",
+  "files": [
+    "dist"
+  ],
+  "directories": {
+    "lib": "dist",
+    "test": "__tests__"
+  },
+  "dependencies": {
+    "@ryandi-tiket/ds-button": "workspace:*",
+    "@ryandi-tiket/ds-typography": "workspace:*",
+    "@ryandi-tiket/ds-with-assets": "workspace:*"
+  },
+  "peerDependencies": {
+    "react": "^17.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tiket/TIX-PASSPORT.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tiket/TIX-PASSPORT/issues"
+  },
+  "publishConfig": {
+    "access": "restricted"
+  }
+}
