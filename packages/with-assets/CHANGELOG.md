@@ -4,4 +4,4 @@
 
 ### Patch Changes
 
-- [#2](https://github.com/ryandi-tiket/debug-chunking/pull/2) [`2d5e31b`](https://github.com/ryandi-tiket/debug-chunking/commit/2d5e31b05a88a6c26b4813ffba8c96156287009f) Thanks [@ryandi-tiket](https://github.com/ryandi-tiket)! - Initial release
+- [#4](https://github.com/ryandi-tiket/debug-chunking/pull/4) [`ef730cc`](https://github.com/ryandi-tiket/debug-chunking/commit/ef730ccd59f9899a739a8fff181e542dd442ea4c) Thanks [@ryandi-tiket](https://github.com/ryandi-tiket)! - Initial release
